@@ -1,3 +1,13 @@
+# Archived -> Moved to a better repo!
+
+Museums sharing data through Open access programs but not including image URLs seems to be a "thing"! I have a created a new repository which includes image URLs for the Met and the Art Institute of Chicago, and possibly more museums. You can find it all here:
+
+https://github.com/gregsadetsky/open-access-is-great-but-where-are-the-images
+
+Cheers
+
+---
+
 ## The Met - Open Access - Images
 
 The "met-openaccess-images.csv" file in this repo links Metropolitan Museum object IDs with their respective Open Access image file URL paths.
